@@ -1,0 +1,38 @@
+C:\Users\wikto\Desktop\3 semestr\InżynieriaOprogramowania\klasy\obj\Debug\WypozyczalniaAut.csproj.AssemblyReference.cache
+C:\Users\wikto\Desktop\3 semestr\InżynieriaOprogramowania\klasy\obj\Debug\WypozyczalniaAut.csproj.SuggestedBindingRedirects.cache
+C:\Users\wikto\Desktop\3 semestr\InżynieriaOprogramowania\klasy\obj\Debug\WypozyczalniaAut.Properties.Resources.resources
+C:\Users\wikto\Desktop\3 semestr\InżynieriaOprogramowania\klasy\obj\Debug\WypozyczalniaAut.csproj.GenerateResource.cache
+C:\Users\wikto\Desktop\3 semestr\InżynieriaOprogramowania\klasy\obj\Debug\WypozyczalniaAut.csproj.CoreCompileInputs.cache
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\klasy\bin\Debug\WypozyczalniaAut.exe.config
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\klasy\bin\Debug\WypozyczalniaAut.exe
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\klasy\bin\Debug\WypozyczalniaAut.pdb
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\klasy\bin\Debug\wypożyczalnia pracownik.exe
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\klasy\bin\Debug\wypożyczalnia pracownik.pdb
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\klasy\bin\Debug\wypożyczalnia pracownik.exe.config
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\klasy\obj\Debug\WypozyczalniaAut.csproj.AssemblyReference.cache
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\klasy\obj\Debug\WypozyczalniaAut.Properties.Resources.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\klasy\obj\Debug\WypozyczalniaAut.csproj.GenerateResource.cache
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\klasy\obj\Debug\WypozyczalniaAut.csproj.CoreCompileInputs.cache
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\klasy\obj\Debug\WypozyczalniaAut.csproj.CopyComplete
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\klasy\obj\Debug\WypozyczalniaAut.exe
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\klasy\obj\Debug\WypozyczalniaAut.pdb
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\klasy\obj\Debug\WypozyczalniaAut.csproj.SuggestedBindingRedirects.cache
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\klasy\obj\Debug\WypozyczalniaAut.csproj.AssemblyReference.cache
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\klasy\obj\Debug\WypozyczalniaAut.Properties.Resources.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\klasy\obj\Debug\WypozyczalniaAut.csproj.GenerateResource.cache
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\klasy\obj\Debug\WypozyczalniaAut.csproj.CoreCompileInputs.cache
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\klasy\obj\Debug\WypozyczalniaAut.exe
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\klasy\obj\Debug\WypozyczalniaAut.pdb
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\klasy\bin\Debug\WypozyczalniaAut.exe.config
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\klasy\bin\Debug\WypozyczalniaAut.exe
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\klasy\bin\Debug\WypozyczalniaAut.pdb
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\klasy\obj\Debug\WypozyczalniaAut.csproj.SuggestedBindingRedirects.cache
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\klasy\bin\Debug\WypozyczalniaAut.exe.config
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\klasy\bin\Debug\WypozyczalniaAut.exe
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\klasy\bin\Debug\WypozyczalniaAut.pdb
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\klasy\obj\Debug\WypozyczalniaAut.csproj.AssemblyReference.cache
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\klasy\obj\Debug\WypozyczalniaAut.Properties.Resources.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\klasy\obj\Debug\WypozyczalniaAut.csproj.GenerateResource.cache
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\klasy\obj\Debug\WypozyczalniaAut.csproj.CoreCompileInputs.cache
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\klasy\obj\Debug\WypozyczalniaAut.exe
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\klasy\obj\Debug\WypozyczalniaAut.pdb

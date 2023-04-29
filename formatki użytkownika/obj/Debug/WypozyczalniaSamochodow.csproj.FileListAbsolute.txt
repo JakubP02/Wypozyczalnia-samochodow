@@ -1,0 +1,160 @@
+C:\Users\agnes\OneDrive\Dokumenty\studia\inżynieria oprogramowania\formsy\obj\Debug\WypozyczalniaSamochodow.csproj.AssemblyReference.cache
+C:\Users\agnes\OneDrive\Dokumenty\studia\inżynieria oprogramowania\formsy\obj\Debug\WypozyczalniaSamochodow.Form1.resources
+C:\Users\agnes\OneDrive\Dokumenty\studia\inżynieria oprogramowania\formsy\obj\Debug\WypozyczalniaSamochodow.Form2.resources
+C:\Users\agnes\OneDrive\Dokumenty\studia\inżynieria oprogramowania\formsy\obj\Debug\WypozyczalniaSamochodow.csproj.GenerateResource.cache
+C:\Users\wikto\Desktop\3 semestr\InżynieriaOprogramowania\formatki użytkownika\bin\Debug\WypozyczalniaSamochodow.exe.config
+C:\Users\wikto\Desktop\3 semestr\InżynieriaOprogramowania\formatki użytkownika\bin\Debug\WypozyczalniaSamochodow.exe
+C:\Users\wikto\Desktop\3 semestr\InżynieriaOprogramowania\formatki użytkownika\bin\Debug\WypozyczalniaSamochodow.pdb
+C:\Users\wikto\Desktop\3 semestr\InżynieriaOprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.csproj.AssemblyReference.cache
+C:\Users\wikto\Desktop\3 semestr\InżynieriaOprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.csproj.SuggestedBindingRedirects.cache
+C:\Users\wikto\Desktop\3 semestr\InżynieriaOprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form1.resources
+C:\Users\wikto\Desktop\3 semestr\InżynieriaOprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form10.resources
+C:\Users\wikto\Desktop\3 semestr\InżynieriaOprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form11.resources
+C:\Users\wikto\Desktop\3 semestr\InżynieriaOprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form12.resources
+C:\Users\wikto\Desktop\3 semestr\InżynieriaOprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form13.resources
+C:\Users\wikto\Desktop\3 semestr\InżynieriaOprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form14.resources
+C:\Users\wikto\Desktop\3 semestr\InżynieriaOprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form15.resources
+C:\Users\wikto\Desktop\3 semestr\InżynieriaOprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form16.resources
+C:\Users\wikto\Desktop\3 semestr\InżynieriaOprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form17.resources
+C:\Users\wikto\Desktop\3 semestr\InżynieriaOprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form2.resources
+C:\Users\wikto\Desktop\3 semestr\InżynieriaOprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form3.resources
+C:\Users\wikto\Desktop\3 semestr\InżynieriaOprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form4.resources
+C:\Users\wikto\Desktop\3 semestr\InżynieriaOprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form5.resources
+C:\Users\wikto\Desktop\3 semestr\InżynieriaOprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form6.resources
+C:\Users\wikto\Desktop\3 semestr\InżynieriaOprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form7.resources
+C:\Users\wikto\Desktop\3 semestr\InżynieriaOprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form8.resources
+C:\Users\wikto\Desktop\3 semestr\InżynieriaOprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form9.resources
+C:\Users\wikto\Desktop\3 semestr\InżynieriaOprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Properties.Resources.resources
+C:\Users\wikto\Desktop\3 semestr\InżynieriaOprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.csproj.GenerateResource.cache
+C:\Users\wikto\Desktop\3 semestr\InżynieriaOprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.csproj.CoreCompileInputs.cache
+C:\Users\wikto\Desktop\3 semestr\InżynieriaOprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.exe
+C:\Users\wikto\Desktop\3 semestr\InżynieriaOprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.pdb
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\bin\Debug\WypozyczalniaSamochodow.exe.config
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\bin\Debug\WypozyczalniaSamochodow.exe
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\bin\Debug\WypozyczalniaSamochodow.pdb
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.csproj.AssemblyReference.cache
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form1.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form10.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form11.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form12.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form13.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form14.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form15.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form16.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form17.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form2.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form3.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form4.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form5.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form6.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form7.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form8.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form9.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Properties.Resources.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.csproj.GenerateResource.cache
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.csproj.CoreCompileInputs.cache
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.exe
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.pdb
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\bin\Debug\WypozyczalniaAut.exe
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\bin\Debug\wypożyczalnia pracownik.exe
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\bin\Debug\wypożyczalnia pracownik.pdb
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\bin\Debug\wypożyczalnia pracownik.exe.config
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\bin\Debug\WypozyczalniaAut.pdb
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\bin\Debug\WypozyczalniaAut.exe.config
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.csproj.CopyComplete
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form18.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.csproj.SuggestedBindingRedirects.cache
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\bin\Debug\WypozyczalniaSamochodow.exe.config
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\bin\Debug\WypozyczalniaSamochodow.exe
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\bin\Debug\WypozyczalniaSamochodow.pdb
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\bin\Debug\WypozyczalniaAut.exe
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\bin\Debug\wypożyczalnia pracownik.exe
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\bin\Debug\wypożyczalnia pracownik.pdb
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\bin\Debug\wypożyczalnia pracownik.exe.config
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\bin\Debug\WypozyczalniaAut.pdb
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\bin\Debug\WypozyczalniaAut.exe.config
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.csproj.AssemblyReference.cache
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form1.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form10.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form11.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form12.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form13.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form14.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form15.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form16.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form17.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form18.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form2.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form3.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form4.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form5.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form6.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form7.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form8.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form9.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Properties.Resources.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.csproj.GenerateResource.cache
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.csproj.CoreCompileInputs.cache
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.exe
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.pdb
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\formatki użytkownika\bin\Debug\WypozyczalniaSamochodow.exe.config
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\formatki użytkownika\bin\Debug\WypozyczalniaSamochodow.exe
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\formatki użytkownika\bin\Debug\WypozyczalniaSamochodow.pdb
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\formatki użytkownika\bin\Debug\WypozyczalniaAut.exe
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\formatki użytkownika\bin\Debug\WypozyczalniaAut.pdb
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\formatki użytkownika\bin\Debug\WypozyczalniaAut.exe.config
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.csproj.AssemblyReference.cache
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form1.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form10.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form11.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form12.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form13.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form14.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form15.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form2.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form3.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form4.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form5.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form6.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form7.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form8.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form9.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Properties.Resources.resources
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.csproj.GenerateResource.cache
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.csproj.CoreCompileInputs.cache
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.csproj.CopyComplete
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.exe
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.pdb
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\formatki użytkownika\bin\Debug\WypozyczalniaSamochodow.exe.config
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\formatki użytkownika\bin\Debug\WypozyczalniaSamochodow.exe
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\formatki użytkownika\bin\Debug\WypozyczalniaSamochodow.pdb
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\formatki użytkownika\bin\Debug\WypozyczalniaAut.exe
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\formatki użytkownika\bin\Debug\WypozyczalniaAut.pdb
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\formatki użytkownika\bin\Debug\WypozyczalniaAut.exe.config
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.csproj.AssemblyReference.cache
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form1.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form10.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form11.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form12.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form13.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form14.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form15.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form2.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form3.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form4.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form5.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form6.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form7.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form8.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Form9.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Properties.Resources.resources
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.csproj.GenerateResource.cache
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.csproj.CoreCompileInputs.cache
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.exe
+C:\Users\agnes\OneDrive\Pulpit\Inżynieria Oprogramowania1\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.pdb
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.csproj.AssemblyReference.cache
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.exe
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.pdb
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.Properties.Resources.resources
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\formatki użytkownika\obj\Debug\WypozyczalniaSamochodow.csproj.GenerateResource.cache

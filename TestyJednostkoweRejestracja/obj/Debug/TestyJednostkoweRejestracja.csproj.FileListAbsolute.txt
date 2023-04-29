@@ -1,0 +1,60 @@
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\TestyJednostkoweRejestracja\bin\Debug\pl\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\TestyJednostkoweRejestracja\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\TestyJednostkoweRejestracja\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\TestyJednostkoweRejestracja\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\TestyJednostkoweRejestracja\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\TestyJednostkoweRejestracja\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\TestyJednostkoweRejestracja\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\TestyJednostkoweRejestracja\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\TestyJednostkoweRejestracja\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\TestyJednostkoweRejestracja\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\TestyJednostkoweRejestracja\bin\Debug\TestyJednostkoweRejestracja.dll
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\TestyJednostkoweRejestracja\bin\Debug\TestyJednostkoweRejestracja.pdb
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\TestyJednostkoweRejestracja\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\TestyJednostkoweRejestracja\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\TestyJednostkoweRejestracja\bin\Debug\WypozyczalniaAut.exe
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\TestyJednostkoweRejestracja\bin\Debug\WypozyczalniaSamochodow.exe
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\TestyJednostkoweRejestracja\bin\Debug\wypożyczalnia pracownik.exe
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\TestyJednostkoweRejestracja\bin\Debug\wypożyczalnia pracownik.pdb
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\TestyJednostkoweRejestracja\bin\Debug\wypożyczalnia pracownik.exe.config
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\TestyJednostkoweRejestracja\bin\Debug\WypozyczalniaSamochodow.pdb
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\TestyJednostkoweRejestracja\bin\Debug\WypozyczalniaSamochodow.exe.config
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\TestyJednostkoweRejestracja\bin\Debug\WypozyczalniaAut.pdb
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\TestyJednostkoweRejestracja\bin\Debug\WypozyczalniaAut.exe.config
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\TestyJednostkoweRejestracja\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\TestyJednostkoweRejestracja\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\TestyJednostkoweRejestracja\obj\Debug\TestyJednostkoweRejestracja.csproj.AssemblyReference.cache
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\TestyJednostkoweRejestracja\obj\Debug\TestyJednostkoweRejestracja.csproj.CoreCompileInputs.cache
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\TestyJednostkoweRejestracja\obj\Debug\TestyJednostkoweRejestracja.csproj.CopyComplete
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\TestyJednostkoweRejestracja\obj\Debug\TestyJednostkoweRejestracja.dll
+C:\Users\wikto\Desktop\3 semestr\Inżynieria Oprogramowania1\TestyJednostkoweRejestracja\obj\Debug\TestyJednostkoweRejestracja.pdb
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\TestyJednostkoweRejestracja\bin\Debug\pl\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\TestyJednostkoweRejestracja\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\TestyJednostkoweRejestracja\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\TestyJednostkoweRejestracja\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\TestyJednostkoweRejestracja\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\TestyJednostkoweRejestracja\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\TestyJednostkoweRejestracja\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\TestyJednostkoweRejestracja\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\TestyJednostkoweRejestracja\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\TestyJednostkoweRejestracja\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\TestyJednostkoweRejestracja\bin\Debug\TestyJednostkoweRejestracja.dll
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\TestyJednostkoweRejestracja\bin\Debug\TestyJednostkoweRejestracja.pdb
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\TestyJednostkoweRejestracja\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\TestyJednostkoweRejestracja\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\TestyJednostkoweRejestracja\bin\Debug\WypozyczalniaAut.exe
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\TestyJednostkoweRejestracja\bin\Debug\WypozyczalniaSamochodow.exe
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\TestyJednostkoweRejestracja\bin\Debug\wypożyczalnia pracownik.exe
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\TestyJednostkoweRejestracja\bin\Debug\wypożyczalnia pracownik.pdb
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\TestyJednostkoweRejestracja\bin\Debug\wypożyczalnia pracownik.exe.config
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\TestyJednostkoweRejestracja\bin\Debug\WypozyczalniaSamochodow.pdb
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\TestyJednostkoweRejestracja\bin\Debug\WypozyczalniaSamochodow.exe.config
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\TestyJednostkoweRejestracja\bin\Debug\WypozyczalniaAut.pdb
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\TestyJednostkoweRejestracja\bin\Debug\WypozyczalniaAut.exe.config
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\TestyJednostkoweRejestracja\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\TestyJednostkoweRejestracja\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\TestyJednostkoweRejestracja\obj\Debug\TestyJednostkoweRejestracja.csproj.AssemblyReference.cache
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\TestyJednostkoweRejestracja\obj\Debug\TestyJednostkoweRejestracja.csproj.CoreCompileInputs.cache
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\TestyJednostkoweRejestracja\obj\Debug\TestyJednostkoweRejestracja.csproj.CopyComplete
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\TestyJednostkoweRejestracja\obj\Debug\TestyJednostkoweRejestracja.dll
+E:\Desktop\InżynieriaOprogramowania_2022_Wypożyczalnia(2)\TestyJednostkoweRejestracja\obj\Debug\TestyJednostkoweRejestracja.pdb
